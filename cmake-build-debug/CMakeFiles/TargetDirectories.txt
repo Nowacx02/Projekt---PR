@@ -1,0 +1,3 @@
+C:/Users/adamn/Desktop/studia/Semestr 6/Rownolegle/Projekt/cmake-build-debug/CMakeFiles/Projekt.dir
+C:/Users/adamn/Desktop/studia/Semestr 6/Rownolegle/Projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adamn/Desktop/studia/Semestr 6/Rownolegle/Projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
